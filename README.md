@@ -25,11 +25,20 @@ python server.py
 ```
 
 ## Feature
+* Fortune-telling
 * Real-time search
 * Memory
 * Professional knowledge base
 * /chat, POST request
 * /add_urls, Learn knowledge from the URL
+
+## Deployment
+* Telegram
+First use BotFather(https://t.me/BotFather) to create new bot accounts.
+```shell
+python tele.py
+```
+
 
 ## Demo
 https://github.com/Mypainismorethanyours/AI-Fortune-Telling-Master/assets/109569168/e9bb8fc2-b37b-4edc-868b-ef60fedb9211
