@@ -33,8 +33,7 @@ python server.py
 * /add_urls, Learn knowledge from the URL
 
 ## Deployment
-* Telegram
-First use BotFather(https://t.me/BotFather) to create new bot accounts.
+* On Telegram: First use BotFather(https://t.me/BotFather) to create new bot accounts.
 ```shell
 python tele.py
 ```
