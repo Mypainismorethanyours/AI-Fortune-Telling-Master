@@ -25,8 +25,11 @@ python server.py
 ```
 
 ## Feature
-Real-time search
-Memory
-Professional knowledge base
-/chat, POST request
-/add_urls, Learn knowledge from the URL
+* Real-time search
+* Memory
+* Professional knowledge base
+* /chat, POST request
+* /add_urls, Learn knowledge from the URL
+
+## Demo
+https://github.com/Mypainismorethanyours/AI-Fortune-Telling-Master/blob/main/Demo/Demo.mp4
