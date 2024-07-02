@@ -32,4 +32,4 @@ python server.py
 * /add_urls, Learn knowledge from the URL
 
 ## Demo
-https://gist.github.com/Mypainismorethanyours/98c611f4052d41cab1c49cafa99fcb74?permalink_comment_id=5108170#gistcomment-5108170
+https://github.com/Mypainismorethanyours/AI-Fortune-Telling-Master/assets/109569168/e9bb8fc2-b37b-4edc-868b-ef60fedb9211
