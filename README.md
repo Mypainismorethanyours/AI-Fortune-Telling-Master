@@ -12,7 +12,7 @@ pip install -r requirements.txt
 3. [Yuanfenju API Key](https://doc.yuanfenju.com/overview/index.html)
 Yuanfenju API provides research on traditional Chinese culture.
 4. Microsoft TTS API
-5. Telegran HTTP API
+5. Telegram HTTP API
 
 ## Run
 1. Start the Redis:
